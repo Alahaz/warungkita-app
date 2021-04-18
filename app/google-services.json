@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1004277325482",
+    "project_id": "projek-praktikum",
+    "storage_bucket": "projek-praktikum.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004277325482:android:ce97e310a085059780bad3",
+        "android_client_info": {
+          "package_name": "com.example.warunq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1004277325482-4n3vdm9164rlih4028hu6eqsvnce154q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtgbfHN_ObXX8ipq_x2UZIjRAjIaVodX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1004277325482-4n3vdm9164rlih4028hu6eqsvnce154q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004277325482:android:ab08fcafd8b2f0a880bad3",
+        "android_client_info": {
+          "package_name": "com.ziesapp.warungkita"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1004277325482-4n3vdm9164rlih4028hu6eqsvnce154q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtgbfHN_ObXX8ipq_x2UZIjRAjIaVodX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1004277325482-4n3vdm9164rlih4028hu6eqsvnce154q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

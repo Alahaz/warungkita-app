@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Warung Kita</string>
+
+    <string-array name="satuan">
+        <item>Kilo</item>
+        <item>Kardus</item>
+        <item>Liter</item>
+        <item>Kuintal</item>
+        <item>Lusin</item>
+        <item>Buah</item>
+        <item>Butir</item>
+        <item>Lembar</item>
+        <item>Pack</item>
+    </string-array>
+</resources>
